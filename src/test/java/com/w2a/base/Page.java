@@ -98,7 +98,7 @@ public class Page {
 			 */
 			
 			/*
-			 * Using Git Plugin
+			 * Using Git Plugin and testing
 			 * 
 			 * 
 			 */
