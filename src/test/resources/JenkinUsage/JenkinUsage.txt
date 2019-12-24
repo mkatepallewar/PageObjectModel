@@ -1,0 +1,5 @@
+java -Dhudson.model.DirectoryBrowserSupport.CSP="" -jar jenkins.war
+
+Then open localhost:8080
+
+in my environment setup username: manish_k and password: arnav_k
