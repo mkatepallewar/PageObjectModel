@@ -96,6 +96,12 @@ public class Page {
 			 * and in build --> Goals and option -- > "clean test -Dbrowser=$browser" here $browser is the name of choice parameter
 			 * 
 			 */
+			
+			/*
+			 * Using Git Plugin
+			 * 
+			 * 
+			 */
 			System.out.println(System.getProperty("browser"));
 			if (System.getProperty("browser")!=null && !System.getProperty("browser").isEmpty()) {
 				browser=System.getProperty("browser");
