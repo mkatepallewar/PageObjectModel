@@ -1,28 +1,28 @@
-DEBUG	2019-12-24 12:44:27,651	0	devpinoyLogger	[main]	Config File Loaded
-DEBUG	2019-12-24 12:44:27,652	1	devpinoyLogger	[main]	OR File Loaded
-DEBUG	2019-12-24 12:44:30,711	3060	devpinoyLogger	[main]	Chrome Launched
-DEBUG	2019-12-24 12:44:34,684	7033	devpinoyLogger	[main]	Nevigated to : http://www.zoho.com/
-DEBUG	2019-12-24 12:44:39,397	11746	devpinoyLogger	[main]	Clicking on : loginlink_XPATH
-DEBUG	2019-12-24 12:44:39,399	11748	devpinoyLogger	[main]	Inside Login test
-DEBUG	2019-12-24 12:44:39,506	11855	devpinoyLogger	[main]	Typing email_CSSentered value as mp_apr80@outlook.com
-DEBUG	2019-12-24 12:44:39,555	11904	devpinoyLogger	[main]	Clicking on : nextbtn_CSS
-DEBUG	2019-12-24 12:44:40,632	12981	devpinoyLogger	[main]	Typing password_CSSentered value as Password_1234
-DEBUG	2019-12-24 12:44:40,682	13031	devpinoyLogger	[main]	Clicking on : signbtn_CSS
-DEBUG	2019-12-24 12:44:40,682	13031	devpinoyLogger	[main]	Login test Success.
-DEBUG	2019-12-24 12:44:40,697	13046	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-DEBUG	2019-12-24 12:44:40,698	13047	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-DEBUG	2019-12-24 12:44:40,699	13048	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-DEBUG	2019-12-24 12:44:40,699	13048	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
-DEBUG	2019-12-24 12:44:40,703	13052	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-DEBUG	2019-12-24 12:44:40,852	13201	devpinoyLogger	[main]	Inside Create Account Test
-DEBUG	2019-12-24 12:44:54,617	26966	devpinoyLogger	[main]	Clicking on : CRM_XPATH
-DEBUG	2019-12-24 12:44:54,733	27082	devpinoyLogger	[main]	Clicking on : Account_LINK
-DEBUG	2019-12-24 12:44:56,513	28862	devpinoyLogger	[main]	Clicking on : CreateAccountMenu_CSS
-DEBUG	2019-12-24 12:44:57,428	29777	devpinoyLogger	[main]	Typing AccountName_CSSentered value as Raman
-DEBUG	2019-12-24 12:44:57,428	29777	devpinoyLogger	[main]	Create Account Test Successful
-DEBUG	2019-12-24 12:44:57,428	29777	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
-DEBUG	2019-12-24 12:44:57,428	29777	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
-DEBUG	2019-12-24 12:44:57,429	29778	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
-DEBUG	2019-12-24 12:44:57,429	29778	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
-DEBUG	2019-12-24 12:44:57,429	29778	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
-DEBUG	2019-12-24 12:44:58,294	30643	devpinoyLogger	[main]	Execution Completed
+DEBUG	2019-12-24 12:57:59,162	0	devpinoyLogger	[main]	Config File Loaded
+DEBUG	2019-12-24 12:57:59,164	2	devpinoyLogger	[main]	OR File Loaded
+DEBUG	2019-12-24 12:58:02,793	3631	devpinoyLogger	[main]	Chrome Launched
+DEBUG	2019-12-24 12:58:07,569	8407	devpinoyLogger	[main]	Nevigated to : http://www.zoho.com/
+DEBUG	2019-12-24 12:58:12,085	12923	devpinoyLogger	[main]	Clicking on : loginlink_XPATH
+DEBUG	2019-12-24 12:58:12,086	12924	devpinoyLogger	[main]	Inside Login test
+DEBUG	2019-12-24 12:58:12,195	13033	devpinoyLogger	[main]	Typing email_CSSentered value as mp_apr80@outlook.com
+DEBUG	2019-12-24 12:58:12,243	13081	devpinoyLogger	[main]	Clicking on : nextbtn_CSS
+DEBUG	2019-12-24 12:58:13,315	14153	devpinoyLogger	[main]	Typing password_CSSentered value as Password_1234
+DEBUG	2019-12-24 12:58:13,347	14185	devpinoyLogger	[main]	Clicking on : signbtn_CSS
+DEBUG	2019-12-24 12:58:13,348	14186	devpinoyLogger	[main]	Login test Success.
+DEBUG	2019-12-24 12:58:13,364	14202	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-24 12:58:13,368	14206	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-24 12:58:13,369	14207	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-24 12:58:13,369	14207	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-24 12:58:13,369	14207	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG	2019-12-24 12:58:13,514	14352	devpinoyLogger	[main]	Inside Create Account Test
+DEBUG	2019-12-24 12:58:43,705	44543	devpinoyLogger	[main]	Clicking on : CRM_XPATH
+DEBUG	2019-12-24 12:58:43,826	44664	devpinoyLogger	[main]	Clicking on : Account_LINK
+DEBUG	2019-12-24 12:58:44,553	45391	devpinoyLogger	[main]	Clicking on : CreateAccountMenu_CSS
+DEBUG	2019-12-24 12:58:45,442	46280	devpinoyLogger	[main]	Typing AccountName_CSSentered value as Raman
+DEBUG	2019-12-24 12:58:45,442	46280	devpinoyLogger	[main]	Create Account Test Successful
+DEBUG	2019-12-24 12:58:45,442	46280	freemarker.cache	[main]	Couldn't find template in cache for "Extent.ftl"("en_US", UTF-8, parsed); will try to load it.
+DEBUG	2019-12-24 12:58:45,442	46280	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en_US.ftl"): Not found
+DEBUG	2019-12-24 12:58:45,442	46280	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent_en.ftl"): Not found
+DEBUG	2019-12-24 12:58:45,443	46281	freemarker.cache	[main]	TemplateLoader.findTemplateSource("Extent.ftl"): Found
+DEBUG	2019-12-24 12:58:45,443	46281	freemarker.cache	[main]	Loading template for "Extent.ftl"("en_US", UTF-8, parsed) from "jar:file:/C:/Users/Manish_Katepallewar/.m2/repository/com/relevantcodes/extentreports/2.41.2/extentreports-2.41.2.jar!/com/relevantcodes/extentreports/view/Extent.ftl"
+DEBUG	2019-12-24 12:58:46,314	47152	devpinoyLogger	[main]	Execution Completed
