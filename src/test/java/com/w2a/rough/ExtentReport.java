@@ -8,6 +8,7 @@ public class ExtentReport extends Page {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		test.log(LogStatus.INFO, "Hello");
+		System.out.println("This is rough package");
 	}
 
 }

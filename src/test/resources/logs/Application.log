@@ -1,13 +1,18 @@
-DEBUG	2019-12-24 12:33:22,081	0	devpinoyLogger	[main]	Config File Loaded
-DEBUG	2019-12-24 12:33:22,082	1	devpinoyLogger	[main]	OR File Loaded
-DEBUG	2019-12-24 12:33:27,348	5267	devpinoyLogger	[main]	Firefox Launched
-DEBUG	2019-12-24 12:33:31,653	9572	devpinoyLogger	[main]	Nevigated to : http://www.zoho.com/
-DEBUG	2019-12-24 12:34:31,284	69203	devpinoyLogger	[main]	Clicking on : loginlink_XPATH
-DEBUG	2019-12-24 12:34:31,291	69210	devpinoyLogger	[main]	Inside Login test
-DEBUG	2019-12-24 12:34:31,362	69281	devpinoyLogger	[main]	Typing email_CSSentered value as manishtest006@gmail.com
-DEBUG	2019-12-24 12:34:31,586	69505	devpinoyLogger	[main]	Clicking on : nextbtn_CSS
-DEBUG	2019-12-24 12:34:32,622	70541	devpinoyLogger	[main]	Typing password_CSSentered value as Password_1234
-DEBUG	2019-12-24 12:34:32,839	70758	devpinoyLogger	[main]	Clicking on : signbtn_CSS
-DEBUG	2019-12-24 12:34:32,840	70759	devpinoyLogger	[main]	Login test Success.
-DEBUG	2019-12-24 12:34:33,016	70935	devpinoyLogger	[main]	Inside Create Account Test
-DEBUG	2019-12-24 12:34:37,412	75331	devpinoyLogger	[main]	Execution Completed
+DEBUG	2019-12-24 12:44:27,651	0	devpinoyLogger	[main]	Config File Loaded
+DEBUG	2019-12-24 12:44:27,652	1	devpinoyLogger	[main]	OR File Loaded
+DEBUG	2019-12-24 12:44:30,711	3060	devpinoyLogger	[main]	Chrome Launched
+DEBUG	2019-12-24 12:44:34,684	7033	devpinoyLogger	[main]	Nevigated to : http://www.zoho.com/
+DEBUG	2019-12-24 12:44:39,397	11746	devpinoyLogger	[main]	Clicking on : loginlink_XPATH
+DEBUG	2019-12-24 12:44:39,399	11748	devpinoyLogger	[main]	Inside Login test
+DEBUG	2019-12-24 12:44:39,506	11855	devpinoyLogger	[main]	Typing email_CSSentered value as mp_apr80@outlook.com
+DEBUG	2019-12-24 12:44:39,555	11904	devpinoyLogger	[main]	Clicking on : nextbtn_CSS
+DEBUG	2019-12-24 12:44:40,632	12981	devpinoyLogger	[main]	Typing password_CSSentered value as Password_1234
+DEBUG	2019-12-24 12:44:40,682	13031	devpinoyLogger	[main]	Clicking on : signbtn_CSS
+DEBUG	2019-12-24 12:44:40,682	13031	devpinoyLogger	[main]	Login test Success.
+DEBUG	2019-12-24 12:44:40,852	13201	devpinoyLogger	[main]	Inside Create Account Test
+DEBUG	2019-12-24 12:44:54,617	26966	devpinoyLogger	[main]	Clicking on : CRM_XPATH
+DEBUG	2019-12-24 12:44:54,733	27082	devpinoyLogger	[main]	Clicking on : Account_LINK
+DEBUG	2019-12-24 12:44:56,513	28862	devpinoyLogger	[main]	Clicking on : CreateAccountMenu_CSS
+DEBUG	2019-12-24 12:44:57,428	29777	devpinoyLogger	[main]	Typing AccountName_CSSentered value as Raman
+DEBUG	2019-12-24 12:44:57,428	29777	devpinoyLogger	[main]	Create Account Test Successful
+DEBUG	2019-12-24 12:44:58,294	30643	devpinoyLogger	[main]	Execution Completed
